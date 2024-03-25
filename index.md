@@ -1,5 +1,5 @@
 ---
-title: Welcome to my blog
+title: C# and .NET development
 ---
 
 This is testing on nxgen blog.
